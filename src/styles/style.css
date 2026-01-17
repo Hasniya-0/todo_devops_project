@@ -1,0 +1,35 @@
+body {
+font-family: Arial, sans-serif;
+background: #f4f4f4;
+text-align: center;
+}
+
+.container {
+background: white;
+padding: 20px;
+width: 350px;
+margin: auto;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input {
+padding: 10px;
+width: 70%;
+}
+
+button {
+padding: 10px;
+margin: 5px;
+cursor: pointer;
+}
+
+li {
+list-style: none;
+margin: 8px;
+}
+
+.done {
+text-decoration: line-through;
+color: gray;
+}
