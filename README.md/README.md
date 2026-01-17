@@ -1,2 +1,2 @@
-Todo App - Develop Branch Edit
-This line is added to create merge conflict.
+Todo App - Merge Conflict Resolved
+This line combines the edits from develop and conflict branches
